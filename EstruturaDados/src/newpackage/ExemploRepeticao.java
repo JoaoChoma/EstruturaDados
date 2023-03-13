@@ -4,15 +4,22 @@
  */
 package newpackage;
 
+import java.util.Scanner;
+
 /**
  *
  * @author joaochoma
  */
 public class ExemploRepeticao {
   public static void main(String[] args) {
-    int limite = 10;
+      
+      Scanner s = new Scanner(System.in);
+      
+    int limite;
+      System.out.println("escreva");
+    limite = s.nextInt();
     for (int i = 0; i < limite; i++) {
-      System.out.println("Contagem: " + i);
+      System.out.println("Numero: " + i);
     }
   }
 }
