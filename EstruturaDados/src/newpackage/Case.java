@@ -8,17 +8,13 @@ package newpackage;
  *
  * @author joaochoma
  */
-public class ExemploCondicao {
-  public static void main(String[] args) {
-    int idade = 18;
-    if (idade > 18) {
-      System.out.println("Você é maior de idade.");
-    } else if (idade == 18) {
-      System.out.println("Você tem 18.");
-    } else {
-        System.out.println("Você é menor de idade.");
-    }
-    
+public class Case {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
     int ano = 2000;
     switch(ano){
         case 1000:
@@ -33,8 +29,6 @@ public class ExemploCondicao {
             System.out.println("Fim");
            
     }
-         
+    }
     
-  }
 }
-
