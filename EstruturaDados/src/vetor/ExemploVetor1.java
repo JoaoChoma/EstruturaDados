@@ -27,6 +27,8 @@ public class ExemploVetor1 {
         for (int i = 0; i < vetor.length; i++) {
             System.out.println("O valor do elemento na posição " + i + " é: " + vetor[i]);
         }
+        
+      
     }
 }
 
