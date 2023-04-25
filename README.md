@@ -4,16 +4,9 @@ Repositório para códigos da disciplina Programação Orientada a Objetos
 
 # Chamada Estrutura de Dados
 
-https://forms.gle/yGip41dxqEpyvHzJ6
+https://forms.gle/S5rSh7mLfZ1Etcft9
 
-# Entrega de atividades
-
-https://forms.gle/FSg4z2gadhhCKktz8
 
 # Drive com conteúdo
 
 https://drive.google.com/drive/folders/1KngNNmtNHGhoVoHPADPxYmAxjznUpe7m?usp=share_link
-
-# Simulado Prova 01
-
-https://forms.gle/KCTkPUTWTPxHJWSS9
