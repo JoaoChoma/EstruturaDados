@@ -14,3 +14,7 @@ https://drive.google.com/drive/folders/1KngNNmtNHGhoVoHPADPxYmAxjznUpe7m?usp=sha
 # SIMULADO P2
 
 https://forms.gle/Sonb9pttxCU4q5iV7
+
+# LISTA ATIVIDADES ENTREGA P2
+
+https://docs.google.com/spreadsheets/d/1qaUDAkDJzsn7OumjUMeej9HsAt5TRDcEiz7kC8HkXnw/edit?usp=sharing
